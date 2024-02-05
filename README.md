@@ -1,4 +1,6 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Akshay</h1>
+<h4 align="center">A passionate Full-Stack Developer from India who believes solving complex problems to create awesome user experience.</h4>
+
 🔭 I’m currently working on MERN Stack | DSA | Open Source & Web3<br><br>🌱 I’m currently learning Data Structures and Algorithms.<br><br>👯 I’m looking to collaborate on Full-Stack Projects<br><br>📝 Check out some of my articles on https://medium.com/@Akshayparihar<br><br>💬 Ask me about Algorithms, data structures and problem solving<br><br>📫Get in touch with me at pariharakshay40@gmail.com
 
 
