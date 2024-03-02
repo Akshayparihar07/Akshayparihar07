@@ -1,4 +1,4 @@
-![Alt text](https://github.com/Akshayparihar07/Akshayparihar07/blob/main/cover-image.png)
+![.](https://github.com/Akshayparihar07/Akshayparihar07/blob/main/cover-image.png)
 <h1 align="center">Hi 👋, I'm Akshay</h1>
 <h4 align="center">A passionate Full-Stack Developer from India who believes in solving complex problems to create awesome user experience.</h4>
 
