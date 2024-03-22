@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akshay</h1>
 <h4 align="center">A passionate Full-Stack Developer from India who believes in solving complex problems to create awesome user experience.</h4>
 
-🔭  I am Enthusiastic about Python MERN Stack | DSA | Open Source & Web3<br><br>🌱 currently I am learning Django.<br><br>👯 looking to collaborate on Full-Stack Projects? Reach me Out 👉🏻 pariharakshay40@gmail.com<br><br>💬 Ask me about Web Developement | Algorithms & data structures | and problem solving<br><br>📫Get in touch with me at my [Email](mailto:pariharakshay40@gmail.com)<br><br>
+🔭  I am Enthusiastic about Python MERN Stack | DSA | Open Source & Web3<br><br>🌱 currently I am learning 🐍Django.<br><br>👯 looking to collaborate on Full-Stack Projects? Reach me Out 👉🏻 pariharakshay40@gmail.com<br><br>💬 Ask me about Web Developement | Algorithms & data structures | and problem solving<br><br>📫Get in touch with me at my [Email](mailto:pariharakshay40@gmail.com)<br><br>
 Check out my Latest Articles on https://akshayparihar.hashnode.dev/
 
 ## 🌐 Socials:
