@@ -1,3 +1,4 @@
+[![](nanner.png)]([link_url](https://akshayparihar07.github.io/portfolio/))
 # 💫 About Me:
 📢I am a Software Engineer.<br>👩🏻‍💻Currently Working on and Learning(Always Do!) React, Django and other Web Dev tools like HTML , CSS JavaScript and MERN<br>👯Want to work togther on an Exciting Project? Reach out to me at pariharakshay40@gmail.com<br>📫View My Portfolio [HERE](https://akshayparihar07.github.io/portfolio/)<br><br>Check out my Latest Articles on https://akshayparihar.hashnode.dev/<br><br>💬I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Whether you have a question, need advice, or just want to say hello, feel free to reach out to me. I'll get back to you as soon as possible.
 
