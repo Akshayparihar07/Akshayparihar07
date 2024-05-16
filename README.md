@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤓I am a Software Engineer Currently Working on Django and Web Development tools like HTML , CSS JavaScript and MERN Stack.<br>❄️Currently Learning React<br>👯 looking to collaborate on Full-Stack Projects? Reach me Out 👉🏻 pariharakshay40@gmail.com<br>💬 Ask me about Web Development | Algorithms & data structures | and problem solving<br>📫View My Portfolio [HERE](https://akshayparihar07.github.io/portfolio/)<br><br>Check out my Latest Articles on https://akshayparihar.hashnode.dev/
+📢I am a Software Engineer.<br>👩🏻‍💻Currently Working on and Learning(Always Do!) React, Django and other Web Dev tools like HTML , CSS JavaScript and MERN<br>👯Want to work togther on an Exciting Project? Reach out to me at pariharakshay40@gmail.com<br>📫View My Portfolio [HERE](https://akshayparihar07.github.io/portfolio/)<br><br>Check out my Latest Articles on https://akshayparihar.hashnode.dev/<br><br>💬I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Whether you have a question, need advice, or just want to say hello, feel free to reach out to me. I'll get back to you as soon as possible.
 
 
 ## 🌐 Socials:
